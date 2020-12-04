@@ -1,0 +1,1357 @@
+.wrapcover{
+    width: 100%;
+    height: 100%;
+    position: relative;
+
+}
+.img2{
+    display: block;
+    width: 100%;
+    height: 770px;
+
+}
+.bksrangkaian1{
+    height: auto;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 20%;
+    width: 100%;
+    margin-right: auto;
+    animation-name: animasirangkaian;
+    animation-duration: 3s;
+    font-size: 70px;
+    font-family: 'Rattman';
+    color: #9C6615;
+}
+.bksrangkaianakad{
+    height: 70px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 25%;
+    width: 100%;
+    animation-name: animasirangkaian;
+    animation-duration: 3s;
+    color: #9C6615;
+    display: flex;
+}
+.bksrangkaianakad1{
+    width: 33.3%;
+    height: 100%;
+    text-align: center;
+}
+.txtakad{
+    font-size: 40px;
+    font-family: 'aquate';
+    position: absolute;
+    bottom: 10px;
+    margin-left: -50px;
+}
+.bksrangkaianakadborder{
+    width: 30%;
+    height: 10%;
+    background-color: #9C6615;
+    border-radius: 2px;
+}
+
+.form1{
+    height: auto;
+    position: absolute;
+    top: 75%;
+    padding-bottom: 20%;
+    width: 100%;
+    margin-right: auto;
+}
+.btnopeng{
+    position: absolute;
+    height:20%;
+    width: 20%;
+    justify-content: center;
+    margin-left: 40%;
+    margin-right: auto;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color:#FFDDA1;
+    font-family: 'fredoka one';
+    text-emphasis-color: inherit;
+
+}
+
+.bksrangkaianakaddetail{
+    height: 5%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 35%;
+    width: 100%;
+    animation-name: animasirangkaian;
+    animation-duration: 3s;
+}
+
+.bksrangkaianakadborderdetail1{
+    width: 33.3%;
+    height: 90%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+
+}
+.bkshari{
+    width: 95%;
+    height: 90%;
+    text-align: center;
+    margin:1%;
+
+}
+
+.txthari{
+    font-size: 25px;
+    font-family: 'monofonto';
+    position: absolute;
+    top: -17px;
+    margin-left: -30px;
+    color: #9C6615;
+}
+.txtpkl{
+    font-size: 25px;
+    font-family: 'monofonto';
+    position: absolute;
+    bottom: -17px;
+    margin-left: -105px;
+    color: #9C6615;
+}
+.txtbulan{
+    font-size: 25px;
+    font-family: 'monofonto';
+    position: absolute;
+    top: -17px;
+    margin-left: -30px;
+    color: #9C6615;
+}
+.txttahun{
+    font-size: 25px;
+    font-family: 'monofonto';
+    position: absolute;
+    bottom: -17px;
+    margin-left: -10px;
+    color: #9C6615;
+}
+.imgtahunlist{
+    font-family: 'monofonto';
+    position: absolute;
+    bottom: 35px;
+    margin-left: -165px;
+    color: #9C6615;
+}
+.bksrangkaianakadborderdetail2{
+    width: 10%;
+    height: 150%;
+    text-align: center;
+    background-color: #FFDDA1;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    border: 7px solid #9C6615;
+    animation-name: animasi1;
+
+}
+.bksrangkaianakadborderdetail3{
+    width: 33.3%;
+    height: 150%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.txttanggal{
+    font-size: 70px;
+    font-family: 'monofonto';
+    position: absolute;
+    top: 14%;
+    margin-left: -34px;
+    color: #9C6615;
+
+}
+.bksrangkaianresepsi{
+    height: 70px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 50%;
+    width: 100%;
+    animation-name: animasirangkaian;
+    animation-duration: 3s;
+    color: #9C6615;
+    display: flex;
+}
+.bksrangkaianresepsiborder{
+    width: 30%;
+    height: 10%;
+    background-color: #9C6615;
+    border-radius: 2px;
+}
+.bksrangkaianresepsi1{
+    width: 33.3%;
+    height: 100%;
+    text-align: center;
+}
+.txtresepsi{
+    font-size: 40px;
+    font-family: 'aquate';
+    position: absolute;
+    bottom: 10px;
+    margin-left: -50px;
+}
+
+.bksrangkaianresepsidetail{
+    height: 5%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 60%;
+    width: 100%;
+    animation-name: animasirangkaian;
+    animation-duration: 3s;
+
+}
+.bksrangkaianjalanakad1{
+    height: auto;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 43%;
+    width: 100%;
+    margin-right: auto;
+    animation-name: animasirangkaian;
+    animation-duration: 3s;
+    font-size: 15px;
+    font-family: 'monofonto';
+    color: #9C6615;
+    margin-left: -10px;
+}
+.bksrangkaianjalandetailakad1{
+    height: auto;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 45%;
+    width: 100%;
+    margin-right: auto;
+    animation-name: animasirangkaian;
+    animation-duration: 3s;
+    font-size: 15px;
+    font-family: 'monofonto';
+    color: #9C6615;
+    margin-left: -10px;
+}
+.bksrangkaianjalanresepsi{
+    height: auto;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 68%;
+    width: 100%;
+    margin-right: auto;
+    animation-name: animasirangkaian;
+    animation-duration: 3s;
+    font-size: 15px;
+    font-family: 'monofonto';
+    color: #9C6615;
+    margin-left: -10px;
+}
+.bksrangkaianjalandetailresepsi{
+    height: auto;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 70%;
+    width: 100%;
+    margin-right: auto;
+    animation-name: animasirangkaian;
+    animation-duration: 3s;
+    font-size: 15px;
+    font-family: 'monofonto';
+    color: #9C6615;
+    margin-left: -10px;
+}
+.bksrangkaianresepsiborderdetail1{
+    width: 33.3%;
+    height: 150%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+
+}
+.bkshariresepsi{
+    width: 95%;
+    height: 150%;
+    text-align: center;
+    margin:1%;
+
+}
+
+.txthariresepsi{
+    font-size: 25px;
+    font-family: 'monofonto';
+    position: absolute;
+    top: -17px;
+    margin-left: -17px;
+    color: #9C6615;
+}
+.txtpklresepsi{
+    font-size: 25px;
+    font-family: 'monofonto';
+    position: absolute;
+    bottom: -17px;
+    margin-left: -105px;
+    color: #9C6615;
+}
+.txtbulanresepsi{
+    font-size: 25px;
+    font-family: 'monofonto';
+    position: absolute;
+    top: -17px;
+    margin-left: -30px;
+    color: #9C6615;
+}
+.txttahunresepsi{
+    font-size: 25px;
+    font-family: 'monofonto';
+    position: absolute;
+    bottom: -17px;
+    margin-left: -10px;
+    color: #9C6615;
+}
+.imgtahunresepsilist{
+    font-family: 'monofonto';
+    position: absolute;
+    bottom: 35px;
+    margin-left: -165px;
+    color: #9C6615;
+}
+.bksrangkaianresepsiborderdetail2{
+    width: 10%;
+    height: 150%;
+    text-align: center;
+    background-color: #FFDDA1;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    border: 7px solid #9C6615;
+    animation-name: animasi1;
+
+}
+.bksrangkaianresepsiborderdetail3{
+    width: 33.3%;
+    height: 150%;
+    text-align: center;   
+    display: flex;
+    flex-direction: column;
+}
+.txttanggalresepsi{
+    font-size: 70px;
+    font-family: 'monofonto';
+    position: absolute;
+    top: 14%;
+    margin-left: -34px;
+    color: #9C6615;
+
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .wrapcover{
+        
+        width: 100%;
+        height: 975px;
+    
+    }
+    .img2 {
+        display: block;
+        width: 100%;
+        height: 970px;
+    }
+    
+    
+   
+ }
+ 
+ 
+ @media only screen and (min-width: 300px) and (max-width: 980px){
+    .wrapcover{
+        width: 100%;
+        height: 100%;
+        position: relative;
+    
+    }
+    .imgharilist{
+        width: 110px;
+        height: 23px;
+        top: 0px;
+        margin-left: -15px;
+    }
+    .img2{
+        display: block;
+        width: 100%;
+        height: 770px;
+    
+    }
+    .bksrangkaian1{
+        height: auto;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 20%;
+        width: 100%;
+        margin-right: auto;
+        animation-name: animasirangkaian;
+        animation-duration: 3s;
+        font-size: 40px;
+        font-family: 'Rattman';
+        color: #9C6615;
+    }
+    .bksrangkaianakad{
+        height: 30px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 27%;
+        width: 100%;
+        animation-name: animasirangkaian;
+        animation-duration: 3s;
+        color: #9C6615;
+        display: flex;
+    }
+    .bksrangkaianakad1{
+        width: 33.3%;
+        height: 100%;
+        text-align: center;
+    }
+    .txtakad{
+        font-size: 25px;
+        font-family: 'aquate';
+        position: absolute;
+        top: 0px;
+        margin-left: -27px;
+    }
+    .bksrangkaianakadborder{
+        width: 30%;
+        height: 10%;
+        background-color: #9C6615;
+        border-radius: 2px;
+    }
+    
+    .form1{
+        height: auto;
+        position: absolute;
+        top: 52%;
+        padding-bottom: 20%;
+        width: 50%;
+        margin-right: auto;
+        animation-name: animasitextbutton;
+        animation-duration: 2s;
+         
+        
+        
+    }
+    .form2{
+        height: auto;
+        position: absolute;
+        top: 83%;
+        padding-bottom: 20%;
+        width: 100%;
+        margin-right: auto;
+        animation-name: animasitextbutton;
+        animation-duration: 2s;
+         
+    }
+    .btnopeng{
+        position: absolute;
+        height: 60%;
+        width: 50%;
+        justify-content: center;
+        margin-left: 75%;
+        margin-right: auto;
+        border-radius: 5px;
+        font-weight: bold;
+        background-color: #FFDDA1;
+        font-family: 'fredoka one';
+        -webkit-text-emphasis-color: inherit;
+        text-emphasis-color: inherit;
+        animation-name: animasitextbutton;
+        animation-duration: 2s;
+       
+    }
+    .btnopenrsvp{
+        position: absolute;
+        height: 50%;
+        width: 50%;
+        justify-content: center;
+        margin-left: 27%;
+        margin-right: auto;
+        border-radius: 5px;
+        font-weight: bold;
+        background-color: #FFDDA1;
+        font-family: 'fredoka one';
+        -webkit-text-emphasis-color: inherit;
+        text-emphasis-color: inherit;
+        animation-name: animasitextbutton;
+        animation-duration: 2s;
+       
+    }
+    
+    .bksrangkaianakaddetail{
+        height: 5%;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 37%;
+        width: 100%;
+        animation-name: animasirangkaian;
+        animation-duration: 3s;
+    
+    }
+    .bksrangkaianakadborderdetail1{
+        width: 33.3%;
+        height: 150%;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+    
+    
+    }
+    .bkshari{
+        width: 95%;
+        height: 150%;
+        text-align: center;
+        margin:1%;
+        animation: animasibksleft 3s;
+    
+    }
+    
+    .bkshari1{
+        width: 95%;
+        height: 150%;
+        text-align: center;
+        margin:1%;
+        animation: animasibksright 3s;
+    
+    }
+    .txthari{
+        font-size: 15px;
+        font-family: 'monofonto';
+        position: absolute;
+        top: -18px;
+        margin-left: -25px;
+        color: #9C6615;
+    }
+    .txtpkl{
+        font-size: 12px;
+    font-family: 'monofonto';
+    position: absolute;
+    bottom: -9px;
+    margin-left: -63px;
+    color: #9C6615;
+    }
+    .txtbulan{
+        font-size: 15px;
+        font-family: 'monofonto';
+        position: absolute;
+        top: -15px;
+        margin-left: -14px;
+        color: #9C6615;
+    }
+    .txttahun{
+        font-size: 14px;
+        font-family: 'monofonto';
+        position: absolute;
+        bottom: -10px;
+        margin-left: 1px;
+        color: #9C6615;
+    }
+    .imgtahunlist{
+        width: 112px;
+        height: 22px;
+        top: 8px;
+        margin-left: -40px
+    }
+    .bksrangkaianakadborderdetail2{
+        width: 15%;
+        height: 150%;
+        text-align: center;
+        background-color: #FFDDA1;
+        border-radius: 50%;
+        align-items: center;
+        justify-content: center;
+        border: 3px solid #9C6615;
+        animation-name: animasi1;
+        margin-left: 8px;
+    }
+    .bksrangkaianakadborderdetail3{
+        width: 33.3%;
+        height: 150%;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+    }
+    .txttanggal{
+        font-size: 40px;
+        font-family: 'monofonto';
+        position: absolute;
+        top: -7%;
+        margin-left: -20px;
+        color: #9C6615;
+    
+    }
+    .bksrangkaianresepsi{
+        height: 70px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 57%;
+        width: 100%;
+        animation-name: animasirangkaian;
+        animation-duration: 3s;
+        color: #9C6615;
+        display: flex;
+    }
+    .bksrangkaianresepsiborder{
+        width: 30%;
+        height: 5%;
+        background-color: #9C6615;
+        border-radius: 1px;
+    }
+    .bksrangkaianresepsi1{
+        width: 33.3%;
+        height: 100%;
+        text-align: center;
+    }
+    .txtresepsi{
+        font-size: 25px;
+        font-family: 'aquate';
+        position: absolute;
+        bottom: 18px;
+        margin-left: -34px;
+    }
+    
+    .bksrangkaianresepsidetail{
+        height: 5%;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 67%;
+        width: 100%;
+        animation-name: animasirangkaian;
+        animation-duration: 3s;
+    
+    }
+    .bksrangkaianjalanakad1{
+        height: auto;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 46%;
+        width: 100%;
+        margin-right: auto;
+        animation-name: animasirangkaian;
+        animation-duration: 3s;
+        font-size: 13px;
+        font-family: 'monofonto';
+        color: #9C6615;
+        margin-left: -2px;
+    }
+    .bksrangkaianjalanresepsi{
+        height: auto;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 76%;
+        width: 100%;
+        margin-right: auto;
+        animation-name: animasirangkaian;
+        animation-duration: 3s;
+        font-size: 13px;
+        font-family: 'monofonto';
+        color: #9C6615;
+        margin-left: -2px;
+    }
+    .bksrangkaianjalandetailakad1{
+        height: auto;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 49%;
+        width: 100%;
+        margin-right: auto;
+        animation-name: animasirangkaian;
+        animation-duration: 3s;
+        font-size: 10px;
+        font-family: 'monofonto';
+        color: #9C6615;
+        margin-left: 0px;
+    }
+    .bksrangkaianjalandetailresepsi{
+        height: auto;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 79%;
+        width: 100%;
+        margin-right: auto;
+        animation-name: animasirangkaian;
+        animation-duration: 3s;
+        font-size: 10px;
+        font-family: 'monofonto';
+        color: #9C6615;
+        margin-left: 0px;
+    }
+    .bksrangkaianresepsiborderdetail1{
+        width: 33.3%;
+        height: 150%;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+    
+    
+    }
+    .bkshariresepsi{
+        width: 95%;
+        height: 150%;
+        text-align: center;
+        margin:1%;
+        animation: animasibksleft 4s;
+    
+    }
+    .bkshariresepsi1{
+        width: 95%;
+        height: 150%;
+        text-align: center;
+        margin:1%;
+        animation: animasibksright 4s;
+    }
+    .formpopup{
+        display: flex;
+        width: 100%;
+        height: 100%;
+    }
+    .formpopupkdtg{
+        display: flex;
+        width: 100%;
+        height: 100%;
+    }
+    .labelkdtg{
+        width: 100%;
+        height: 100%;
+        margin-left: -20%;
+    }
+    @font-face{
+        
+        font-family: 'palace';
+        src: url('../../Assets/font/Palace.ttf') format('truetype');
+        
+        
+    }
+    
+    .labeltf{
+        width: 105%;
+        height: 50%;
+        font-size: 12px;
+        font-family: 'palace';
+        position: relative;
+        top: 20px;
+        background-color: #FFDDA1;
+        border-radius: 5%;
+        margin-left: -2%;
+ 
+
+    }
+    .labeltfku{
+        width: 100%;
+        height: 50%;
+        position: relative;
+        top: 40px;
+        
+    }
+    .txtkdtg{
+        width: 100%;
+        height: 100%;
+        border:50px black;
+        background-color: #FFDDA1;
+        margin-left:-10% ;
+    }
+    .labelnamaku{
+        width: 100%;
+        height: 100%;
+        margin-left: -20%;
+
+    }
+    .txttamu{
+        width: 100%;
+        height: 100%;
+        border:50px black;
+        margin-left: 4%;
+       
+    }
+    .txtnama{
+        width: 100%;
+        height: 100%;
+        border:50px black;
+        background-color: #FFDDA1;
+        color: black;
+        margin-left: -10%;
+       
+    }
+    ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+        color: black;
+        opacity: 1; /* Firefox */
+      }
+      
+      :-ms-input-placeholder { /* Internet Explorer 10-11 */
+        color: black;
+      }
+      
+      ::-ms-input-placeholder { /* Microsoft Edge */
+        color: black;
+      }
+    .bksmodal{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .txthariresepsi{
+        font-size: 15px;
+        font-family: 'monofonto';
+        position: absolute;
+        top: -18px;
+        margin-left: -25px;
+        color: #9C6615;
+    }
+    .txtpklresepsi{
+        font-size: 12px;
+        font-family: 'monofonto';
+        position: absolute;
+        bottom: -9px;
+        margin-left: -63px;
+        color: #9C6615;
+    }
+    .txtbulanresepsi{
+        font-size: 15px;
+        font-family: 'monofonto';
+        position: absolute;
+        top: -15px;
+        margin-left: -14px;
+        color: #9C6615;
+    }
+    .txttahunresepsi{
+        font-size: 14px;
+        font-family: 'monofonto';
+        position: absolute;
+        bottom: -10px;
+        margin-left: -3px;
+        color: #9C6615;
+    }
+    .imgtahunresepsilist{
+        width: 112px;
+    height: 22px;
+    top: 8px;
+    margin-left: -40px;
+    }
+    .imgtahunresepsilisthari{
+        width: 110px;
+    height: 23px;
+    top: 0px;
+    margin-left: -15px;
+    }
+    .bksrangkaianresepsiborderdetail2{
+        width: 15%;
+        height: 150%;
+        text-align: center;
+        background-color: #FFDDA1;
+        border-radius: 50%;
+        align-items: center;
+        justify-content: center;
+        border: 3px solid #9C6615;
+        animation-name: animasi1;
+        margin-left: 8px;
+    
+    }
+    .bksrangkaianresepsiborderdetail3{
+        width: 33.3%;
+        height: 150%;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+    }
+    .txttanggalresepsi{
+        font-size: 40px;
+    font-family: 'monofonto';
+    position: absolute;
+    top: -7%;
+    margin-left: -20px;
+    color: #9C6615;
+    
+    }
+    
+    }
+
+ 
+ @media only screen and (min-width: 480px) and (max-width: 767px) {
+    .wrapcover{
+        
+        width: 100%;
+        height: 1425px;
+    
+    }
+    .img2 {
+        display: block;
+        width: 100%;
+        height: 1425px;
+    }
+ }
+ @media only screen and (min-height: 800px) and (max-height:1000px) {
+    .wrapcover{
+        width: 100%;
+        height: 1000px;
+    
+    }
+    .img2 {
+        display: block;
+        width: 100%;
+        height: 1000px;
+    }
+ }
+ 
+ @media only screen and (min-height: 1024px) and (max-height:1400px) {
+    .wrapcover{
+        width: 100%;
+        height: 1024px;
+    
+    }
+    .img2 {
+        display: block;
+        width: 100%;
+        height: 1024px;
+    }
+    .form1{
+        height: auto;
+        position: absolute;
+        top: 52%;
+        padding-bottom: 10%;
+        width: 100%;
+        margin-right: auto;
+    }
+    .btnopeng{
+        position: absolute;
+        height:70%;
+        width: 20%;
+        justify-content: center;
+        margin-left: 40%;
+        margin-right: auto;
+        border-radius: 5px;
+        font-weight: bold;
+        background-color:#FFDDA1;
+        font-family: 'fredoka one';
+        text-emphasis-color: inherit;
+    
+    }
+ }
+
+ @media only screen and (min-width: 1024px) and (max-width:1600px) {
+    .wrapcover{
+        width: 100%;
+        height: 1400px;
+    
+    }
+    .img2 {
+        display: block;
+        width: 100%;
+        height: 1400px;
+    }
+    .bksrangkaian1{
+        height: auto;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 20%;
+        width: 100%;
+        margin-right: auto;
+        animation-name: animasirangkaian;
+        animation-duration: 3s;
+        font-size: 70px;
+        font-family: 'Rattman';
+        color: #9C6615;
+    }
+    .bksrangkaianakad{
+        height: 70px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 25%;
+        width: 100%;
+        animation-name: animasirangkaian;
+        animation-duration: 3s;
+        color: #9C6615;
+        display: flex;
+    }
+    .bksrangkaianakad1{
+        width: 33.3%;
+        height: 100%;
+        text-align: center;
+    }
+    .txtakad{
+        font-size: 40px;
+        font-family: 'aquate';
+        position: absolute;
+        bottom: 10px;
+        margin-left: -50px;
+    }
+    .bksrangkaianakadborder{
+        width: 30%;
+        height: 10%;
+        background-color: #9C6615;
+        border-radius: 2px;
+    }
+    
+    .form1{
+        height: auto;
+        position: absolute;
+        top: 75%;
+        padding-bottom: 20%;
+        width: 100%;
+        margin-right: auto;
+    }
+    .btnopeng{
+        position: absolute;
+        height:20%;
+        width: 20%;
+        justify-content: center;
+        margin-left: 40%;
+        margin-right: auto;
+        border-radius: 5px;
+        font-weight: bold;
+        background-color:#FFDDA1;
+        font-family: 'fredoka one';
+        text-emphasis-color: inherit;
+    
+    }
+    
+    .bksrangkaianakaddetail{
+        height: 5%;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 35%;
+        width: 100%;
+        animation-name: animasirangkaian;
+        animation-duration: 3s;
+    }
+    
+    .bksrangkaianakadborderdetail1{
+        width: 33.3%;
+        height: 90%;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+    
+    
+    }
+    .bkshari{
+        width: 95%;
+        height: 90%;
+        text-align: center;
+        margin:1%;
+    
+    }
+    
+    .txthari{
+        font-size: 25px;
+        font-family: 'monofonto';
+        position: absolute;
+        top: -17px;
+        margin-left: -30px;
+        color: #9C6615;
+    }
+    .txtpkl{
+        font-size: 25px;
+        font-family: 'monofonto';
+        position: absolute;
+        bottom: -17px;
+        margin-left: -105px;
+        color: #9C6615;
+    }
+    .txtbulan{
+        font-size: 25px;
+        font-family: 'monofonto';
+        position: absolute;
+        top: -17px;
+        margin-left: -30px;
+        color: #9C6615;
+    }
+    .txttahun{
+        font-size: 25px;
+        font-family: 'monofonto';
+        position: absolute;
+        bottom: -17px;
+        margin-left: -10px;
+        color: #9C6615;
+    }
+    .imgtahunlist{
+        font-family: 'monofonto';
+        position: absolute;
+        bottom: 35px;
+        margin-left: -165px;
+        color: #9C6615;
+    }
+    .bksrangkaianakadborderdetail2{
+        width: 10%;
+        height: 150%;
+        text-align: center;
+        background-color: #FFDDA1;
+        border-radius: 50%;
+        align-items: center;
+        justify-content: center;
+        border: 7px solid #9C6615;
+        animation-name: animasi1;
+    
+    }
+    .bksrangkaianakadborderdetail3{
+        width: 33.3%;
+        height: 150%;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        
+    
+    }
+    .txttanggal{
+        font-size: 70px;
+        font-family: 'monofonto';
+        position: absolute;
+        top: 14%;
+        margin-left: -34px;
+        color: #9C6615;
+    
+    }
+    .bksrangkaianresepsi{
+        height: 70px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 50%;
+        width: 100%;
+        animation-name: animasirangkaian;
+        animation-duration: 3s;
+        color: #9C6615;
+        display: flex;
+    }
+    .bksrangkaianresepsiborder{
+        width: 30%;
+        height: 10%;
+        background-color: #9C6615;
+        border-radius: 2px;
+    }
+    .bksrangkaianresepsi1{
+        width: 33.3%;
+        height: 100%;
+        text-align: center;
+    }
+    .txtresepsi{
+        font-size: 40px;
+        font-family: 'aquate';
+        position: absolute;
+        bottom: 10px;
+        margin-left: -50px;
+    }
+    
+    .bksrangkaianresepsidetail{
+        height: 5%;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 60%;
+        width: 100%;
+        animation-name: animasirangkaian;
+        animation-duration: 3s;
+    
+    }
+    .bksrangkaianjalanakad1{
+        height: auto;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 43%;
+        width: 100%;
+        margin-right: auto;
+        animation-name: animasirangkaian;
+        animation-duration: 3s;
+        font-size: 15px;
+        font-family: 'monofonto';
+        color: #9C6615;
+        margin-left: -10px;
+    }
+    .bksrangkaianjalandetailakad1{
+        height: auto;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 45%;
+        width: 100%;
+        margin-right: auto;
+        animation-name: animasirangkaian;
+        animation-duration: 3s;
+        font-size: 15px;
+        font-family: 'monofonto';
+        color: #9C6615;
+        margin-left: -10px;
+    }
+    .bksrangkaianjalanresepsi{
+        height: auto;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 68%;
+        width: 100%;
+        margin-right: auto;
+        animation-name: animasirangkaian;
+        animation-duration: 3s;
+        font-size: 15px;
+        font-family: 'monofonto';
+        color: #9C6615;
+        margin-left: -10px;
+    }
+    .bksrangkaianjalandetailresepsi{
+        height: auto;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        top: 70%;
+        width: 100%;
+        margin-right: auto;
+        animation-name: animasirangkaian;
+        animation-duration: 3s;
+        font-size: 15px;
+        font-family: 'monofonto';
+        color: #9C6615;
+        margin-left: -10px;
+    }
+    .bksrangkaianresepsiborderdetail1{
+        width: 33.3%;
+        height: 150%;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+    
+    
+    }
+    .bkshariresepsi{
+        width: 95%;
+        height: 150%;
+        text-align: center;
+        margin:1%;
+    
+    }
+    
+    .txthariresepsi{
+        font-size: 25px;
+        font-family: 'monofonto';
+        position: absolute;
+        top: -17px;
+        margin-left: -17px;
+        color: #9C6615;
+    }
+    .txtpklresepsi{
+        font-size: 25px;
+        font-family: 'monofonto';
+        position: absolute;
+        bottom: -17px;
+        margin-left: -105px;
+        color: #9C6615;
+    }
+    .txtbulanresepsi{
+        font-size: 25px;
+        font-family: 'monofonto';
+        position: absolute;
+        top: -17px;
+        margin-left: -30px;
+        color: #9C6615;
+    }
+    .txttahunresepsi{
+        font-size: 25px;
+        font-family: 'monofonto';
+        position: absolute;
+        bottom: -17px;
+        margin-left: -10px;
+        color: #9C6615;
+    }
+    .imgtahunresepsilist{
+        font-family: 'monofonto';
+        position: absolute;
+        bottom: 35px;
+        margin-left: -165px;
+        color: #9C6615;
+    }
+    .bksrangkaianresepsiborderdetail2{
+        width: 10%;
+        height: 150%;
+        text-align: center;
+        background-color: #FFDDA1;
+        border-radius: 50%;
+        align-items: center;
+        justify-content: center;
+        border: 7px solid #9C6615;
+        animation-name: animasi1;
+    
+    }
+    .bksrangkaianresepsiborderdetail3{
+        width: 33.3%;
+        height: 150%;
+        text-align: center;   
+        display: flex;
+        flex-direction: column;
+    }
+    .txttanggalresepsi{
+        font-size: 70px;
+        font-family: 'monofonto';
+        position: absolute;
+        top: 14%;
+        margin-left: -34px;
+        color: #9C6615;
+    
+    }
+ }
+
+ 
+
+
