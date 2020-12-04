@@ -14,7 +14,7 @@ import Place from '../Place/Place';
 
 
 class NavBottom extends Component{
-    constructor() {
+    constructor(props) {
         super(props);
         this.state = {
           showHideDemo1: true,
