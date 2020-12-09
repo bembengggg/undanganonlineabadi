@@ -46,7 +46,7 @@ const Gallery =()=>{
             }}
                src={`https://www.youtube.com/embed/CPKqZB7C-cI`}
                frameborder="0" 
-               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen></iframe>
+               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen/>
             </div>
            <div className='bksrangkaian'>
                 <div className='bks'>Galery</div>
