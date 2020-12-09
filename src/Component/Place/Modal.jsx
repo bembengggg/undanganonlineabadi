@@ -10,11 +10,9 @@ const Modal =({title,jam,tamu,children,onClose,value,duration=300,showCloseBtn})
    
 const konfirmasi=()=>{
 
-    if (jam=='' || jam=='Select' ){
+    if (jam==='' || jam==='Select' ){
         alert('Silahkan Untuk Pilih Jam')
 
-    }else if(jam!='select' && tamu==='Select' || tamu===''){
-        alert('Silahkan Pilih Tamu yang Akan hadir')
     }
     else
     {
