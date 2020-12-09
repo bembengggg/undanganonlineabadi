@@ -29,7 +29,6 @@ class NavBottom extends Component{
 
         
       hideComponent(name) {
-      
         switch (name) {
           case 'showHideDemo1':
             this.setState({ showHideDemo1: !this.state.showHideDemo1 });
@@ -71,6 +70,7 @@ class NavBottom extends Component{
                     this.setState({showHideDemo4: false  });
                     this.setState({showHideDemo5: true  });     
  
+    /* no default */
         }
       }
     render(){
