@@ -46,6 +46,7 @@ const Gallery =()=>{
             style ={style}
                src={`https://www.youtube.com/embed/CPKqZB7C-cI`}
                frameborder="0" 
+               title=''
                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen/>
             </div>
            <div className='bksrangkaian'>
