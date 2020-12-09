@@ -70,7 +70,7 @@ class NavBottom extends Component{
                     this.setState({showHideDemo3: false  });
                     this.setState({showHideDemo4: false  });
                     this.setState({showHideDemo5: true  });
-                   
+          default:       
  
         }
       }
