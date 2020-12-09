@@ -29,6 +29,7 @@ class NavBottom extends Component{
 
         
       hideComponent(name) {
+      
         switch (name) {
           case 'showHideDemo1':
             this.setState({ showHideDemo1: !this.state.showHideDemo1 });
@@ -61,22 +62,15 @@ class NavBottom extends Component{
                 this.setState({showHideDemo3: false  });
                 this.setState({showHideDemo4: true  });
                 this.setState({showHideDemo5: false  });
-            break;
+                break;
           case 'showHideDemo5':
                     this.setState({ showHideDemo5: !this.state.showHideDemo5 });
                     this.setState({showHideDemo1: false  });
                     this.setState({showHideDemo2: false  });
                     this.setState({showHideDemo3: false  });
                     this.setState({showHideDemo4: false  });
-                    this.setState({showHideDemo5: true  });
-          default:     
-          this.setState({ showHideDemo1: !this.state.showHideDemo1 });
-            this.setState({showHideDemo1: true  });
-            this.setState({showHideDemo2: false  });
-            this.setState({showHideDemo3: false  });
-            this.setState({showHideDemo4: false  });
-            this.setState({showHideDemo5: false  });
-          break;
+                    this.setState({showHideDemo5: true  });     
+ 
         }
       }
     render(){
