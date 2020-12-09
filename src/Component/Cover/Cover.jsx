@@ -8,7 +8,7 @@ import cover from '../../Assets/image/bgimage.jpg';
 class Cover extends Component{  
       render(){
     return(
-        
+ 
         <div className='wrapcover'>
            <img className='imgcover' src={cover} alt=''/>  
            <div className='imgperson'>
