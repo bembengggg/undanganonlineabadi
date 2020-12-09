@@ -11,7 +11,7 @@ const options = {
     hideControlsAfter: false
   },
   caption: {
-    captionColor: "#9C6615",
+    captionColor: "#fffff",
     captionFontFamily: "Raleway, sans-serif",
     captionFontWeight: "300",
     captionTextTransform: "uppercase",
@@ -56,18 +56,18 @@ const Gallery =()=>{
              <SimpleReactlightbox>
              <div className='grid'>
                <SRLWrapper options={options}>
-              <img alt='imgbg1'src='https://i.ibb.co/j64bvBv/bambang10.jpg'/>
-              <img alt='berpegang teguh dengan komitmen'src='https://i.ibb.co/LkpSpQx/bambang4.png'/> 
-              <img alt='imgbg3'src='https://i.ibb.co/BP4hbDS/bambang3.jpg'/>
-              <img alt='imgbg4'src='https://i.ibb.co/my1ShF5/bambang11.jpg'/>
-              <img alt='imgbg5'src='https://i.ibb.co/1ZNr8Dy/bambang5.jpg'/>
-              <img alt='imgbg6'src='https://i.ibb.co/tKVvzY7/bambang12.jpg'/> 
-              <img alt='imgbg7'src='https://i.ibb.co/FzwjTb7/bambang7.png'/>
-              <img alt='imgbg8'src='https://i.ibb.co/9yzsrRv/bambang8.jpg'/>
-              <img alt='imgbg9'src='https://i.ibb.co/NYbSFd0/bambang9.jpg'/>
-              <img alt='imgbg10'src='https://i.ibb.co/XtHgLGF/bambang1.jpg'/>
-              <img alt='imgbg11'src='https://i.ibb.co/hdchMMS/bambang2.jpg'/>
-              <img alt='imgbg12'src='https://i.ibb.co/cYYHRx0/bambang6.jpg'/>
+              <img alt='Tetap Selalu Berjalanan Seiringan'src='https://i.ibb.co/j64bvBv/bambang10.jpg'/>
+              <img alt='Komitmen adalah Kunci dalam Hubungan'src='https://i.ibb.co/LkpSpQx/bambang4.png'/> 
+              <img alt='Mencitaimu Bukan Karna siapa Kamu Tetapi Karena Siapa Aku Ketika Bersamamu'src='https://i.ibb.co/BP4hbDS/bambang3.jpg'/>
+              <img alt='Cinta adalah Tentang Keikhlasan'src='https://i.ibb.co/my1ShF5/bambang11.jpg'/>
+              <img alt='Kebahagian akan selalu Menemani'src='https://i.ibb.co/1ZNr8Dy/bambang5.jpg'/>
+              <img alt='Sabar Menyikapi Segala Hal'src='https://i.ibb.co/tKVvzY7/bambang12.jpg'/> 
+              <img alt='Bahagiamu akan selalu menjadi bahagiaku'src='https://i.ibb.co/FzwjTb7/bambang7.png'/>
+              <img alt='Aku Memilihmu Kamu Memilihku'src='https://i.ibb.co/9yzsrRv/bambang8.jpg'/>
+              <img alt='Kenangan Akan Menjadi Guru'src='https://i.ibb.co/XtHgLGF/bambang1.jpg'/>
+              <img alt='Rindu Akan Menjadi Temu'src='https://i.ibb.co/NYbSFd0/bambang9.jpg'/>
+              <img alt='Cinta Tidak bisa dilihat tapi dirasakan'src='https://i.ibb.co/hdchMMS/bambang2.jpg'/>
+              <img alt='Tetap Bersama Sampai Maut Memisahkan'src='https://i.ibb.co/cYYHRx0/bambang6.jpg'/>
               </SRLWrapper>
            </div>
 
