@@ -61,7 +61,7 @@ class NavBottom extends Component{
                 this.setState({showHideDemo3: false  });
                 this.setState({showHideDemo4: true  });
                 this.setState({showHideDemo5: false  });
-                break;
+            break;
           case 'showHideDemo5':
                     this.setState({ showHideDemo5: !this.state.showHideDemo5 });
                     this.setState({showHideDemo1: false  });
@@ -71,7 +71,7 @@ class NavBottom extends Component{
                     this.setState({showHideDemo5: true  });
           default:     
           alert('Maaf terjadi gangguan') 
- 
+          break;
         }
       }
     render(){
