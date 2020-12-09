@@ -70,7 +70,12 @@ class NavBottom extends Component{
                     this.setState({showHideDemo4: false  });
                     this.setState({showHideDemo5: true  });
           default:     
-          alert('Maaf terjadi gangguan') 
+          this.setState({ showHideDemo1: !this.state.showHideDemo1 });
+            this.setState({showHideDemo1: true  });
+            this.setState({showHideDemo2: false  });
+            this.setState({showHideDemo3: false  });
+            this.setState({showHideDemo4: false  });
+            this.setState({showHideDemo5: false  });
           break;
         }
       }
