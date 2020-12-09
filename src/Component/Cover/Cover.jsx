@@ -5,14 +5,7 @@ import cover from '../../Assets/image/bgimage.jpg';
 
 
 
-class Cover extends Component{
-
-    constructor(props) {
-        super(props);
-
-
-
-    }
+class Cover extends Component{  
       render(){
     return(
         
@@ -47,6 +40,6 @@ class Cover extends Component{
     
 
     )
-}
+    }
 }
 export default Cover;
