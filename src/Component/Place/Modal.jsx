@@ -16,7 +16,7 @@ const konfirmasi=()=>{
     }
     else
     {
-            window.location.href='https://api.whatsapp.com/send?phone=6281367649724&text=Nama:%20'+value+'%20%0AJam%20Hadir:%20 '+jam+' %20%0AJumlah%20Hadir:%20 '+tamu+' Orang'
+            window.location.href='https://api.whatsapp.com/send?phone=628118472790&text=Nama:%20'+value+'%20%0AJam%20Hadir:%20 '+jam+' %20%0AJumlah%20Hadir:%20 '+tamu+' Orang'
     }
 }
  
