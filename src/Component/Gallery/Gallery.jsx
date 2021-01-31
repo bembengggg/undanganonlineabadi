@@ -30,10 +30,7 @@ const options = {
     size: '40px'
   }
 };
-const style = {
-  width:"100%", 
-  height:"315"
-};
+
 
 
 const Gallery =()=>{
