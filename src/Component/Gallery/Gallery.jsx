@@ -52,7 +52,7 @@ const Gallery =()=>{
               <img alt='Mencitaimu Bukan Karna siapa Kamu Tetapi Karena Siapa Aku Ketika Bersamamu' src="https://i.ibb.co/9W3khpm/Whats-App-Image-2021-05-23-at-14-17-1-2.png" />
               <img alt='Cinta adalah Tentang Keikhlasan' src="https://i.ibb.co/8zyspFT/Whats-App-Image-2021-05-23-at-14-17-1-3.png" />
               <img alt='Tetap Selalu Berjalanan Seiringan' src="https://i.ibb.co/qFhHbBp/Whats-App-Image-2021-05-23-at-14-17-1-4.png"/>
-              <img alt='Pernikahan arti dalam sebuah perjalanan' src="https://i.ibb.co/NLdqhRf/Photo-8-1.png" />
+              <img alt='Pernikahan arti dalam sebuah perjalanan' src="https://i.ibb.co/b6TDn6B/Whats-App-Image-2021-05-23-at-23-12-1.png" />
               </SRLWrapper>
            </div>
 
