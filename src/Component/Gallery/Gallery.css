@@ -57,13 +57,13 @@ margin-right: auto;
             height: 770px;
         
         }
-        .grid > div{
+        .grid > div {
             height: auto;
             position: absolute;
-            top: 27%;
+            top: 45%;
             width: 100%;
             display: grid;
-            grid-template-columns: repeat(5, 1fr);
+            grid-template-columns: repeat(4, 1fr);
             grid-gap: 1px;
             align-items: start;
             justify-items: center;
@@ -73,10 +73,12 @@ margin-right: auto;
         .grid > div img {
             max-width: 100%;
             background-color: teal;
+            position: center;
           }
-          .grid > div img:nth-child(2) {
-            grid-column: span 3;
-            grid-row: span 3;
+          .grid   div img {
+            background-position: center;
+            grid-column: span 2;
+            grid-row: span 2;
             }
             .bks{
                 height: auto;

@@ -574,7 +574,7 @@
         font-family: 'monofonto';
         position: absolute;
         top: -15px;
-        margin-left: -14px;
+        margin-left: 0px;
         color: #9C6615;
     }
     .txttahun{
@@ -862,7 +862,7 @@
         font-family: 'monofonto';
         position: absolute;
         top: -15px;
-        margin-left: -14px;
+        margin-left: 0px;
         color: #9C6615;
     }
     .txttahunresepsi{
@@ -870,7 +870,7 @@
         font-family: 'monofonto';
         position: absolute;
         bottom: -10px;
-        margin-left: -3px;
+        margin-left: 2px;
         color: #9C6615;
     }
     .imgtahunresepsilist{

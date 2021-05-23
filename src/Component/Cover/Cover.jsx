@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './Cover.css';
-import cover from '../../Assets/image/bgimage.jpg';
+
 
 
 
@@ -10,7 +10,8 @@ class Cover extends Component{
     return(
  
         <div className='wrapcover'>
-           <img className='imgcover' src={cover} alt=''/>  
+           <div className='imgcover'  >
+               </div>  
            <div className='imgperson'>
             </div>
             <div className='imgperson1'>
@@ -20,16 +21,16 @@ class Cover extends Component{
                 <label className='labeljudul'>Are Getting Married</label>
             </div>
            <div className='form8'>
-                <label className='labelnpw'>Adinda Rizki Fitrianisa</label>
+                <label className='labelnpw'>Dita Permata Sari</label>
             </div>
             <div className='form10'>
-                <label className='labelnpl'>Bambang Kurniawan Wibowo</label>
+                <label className='labelnpl'>Ryan Purnama Megah</label>
             </div>
             <div className='form9'>
                 <label className='labeland'>&amp;</label>
             </div>
             <div className='form11'>
-                <label className='labeltgl'>09.January.2021 | Sasono Mulyo</label>
+                <label className='labeltgl'>06.Juni.2021 | Beta Goldlan</label>
             </div>
             </div>
          

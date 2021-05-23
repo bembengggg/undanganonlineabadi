@@ -12,11 +12,10 @@
 }
 
 .imgperson{
-    width: 100%;
+    width: 50%;
     height: 100%;
-    background-image: url("https://i.ibb.co/S3TK8fS/ABADI.png");
+    background-image: url("https://i.ibb.co/PWFvf2q/Photo-9.jpg");
     border:5px solid #FFDDA1;
-    top: -30%;
     border-radius: 1.7%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -40,7 +39,7 @@
     position: absolute;
     width: 100%;
     height: 25%;
-    top: 60%;
+    top: 20%;
 
 }
 .btnopens{

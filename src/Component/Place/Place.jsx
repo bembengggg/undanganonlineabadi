@@ -44,22 +44,22 @@ const Place =()=>{
 
            <div className='bksrangkaianakadborderdetail1'> 
                      <div className='bkshari'>
-                        <label className='txthari'>SABTU</label>
+                        <label className='txthari'>MINGGU</label>
                     </div>
                     <div className='bkshari'>
                     <img className='imgharilist' alt='imgharilist' src='https://i.ibb.co/fdmtjh7/list.png'/>
                     </div>    
                     <div className='bkshari'>
-                        <label className='txtpkl'>16.00 S/D 17.00 WIB</label>
+                        <label className='txtpkl'>16.00 WIB S/D SELESAI </label>
                     </div>   
             </div>
                <div className='bksrangkaianakadborderdetail2'>
-                    <label className='txttanggal'>09</label>
+                    <label className='txttanggal'>06</label>
                </div>
 
                    <div className='bksrangkaianakadborderdetail3'>
                    <div className='bkshari1'>
-                        <label className='txtbulan'>JANUARY</label>
+                        <label className='txtbulan'>JUNI</label>
                     </div>
                     <div className='bkshari1'>
                     <img className='imgtahunlist' alt='imgtahunlist' src='https://i.ibb.co/fdmtjh7/list.png'/>
@@ -71,10 +71,10 @@ const Place =()=>{
            </div>
 
            <div className='bksrangkaianjalanakad'>
-                <div className='bksrangkaianjalanakad1'><b>SASONO MULYO - DEPOK</b></div>
+                <div className='bksrangkaianjalanakad1'><b>BETA GOLDLAN - (PURI BETA 2)</b></div>
            </div>
            <div className='bksrangkaianjalandetailakad'>
-                <div className='bksrangkaianjalandetailakad1'>Jl. Jatimulya (Kalimulya) No. 30, Cilodong, Depok Jawa Barat</div>
+                <div className='bksrangkaianjalandetailakad1'>Jl. Puri Beta Utara Raya Blok B.V.No 06 - 8 Ciledung Tangerang</div>
            </div>
             
            <div className='bksrangkaianresepsi'>
@@ -92,22 +92,22 @@ const Place =()=>{
 
            <div className='bksrangkaianresepsiborderdetail1'> 
                     <div className='bkshariresepsi'>
-                        <label className='txthariresepsi'>SABTU</label>
+                        <label className='txthariresepsi'>Minggu</label>
                     </div>
                     <div className='bkshariresepsi'>
                     <img className='imgtahunresepsilisthari' alt='imgtahunresepsilisthari' src='https://i.ibb.co/fdmtjh7/list.png'/>
                     </div>    
                     <div className='bkshariresepsi'>
-                        <label className='txtpklresepsi'>19.00 S/D 20.00 WIB</label>
+                        <label className='txtpklresepsi'>19.00 WIB S/D SELESAI </label>
                     </div>  
             </div>
                <div className='bksrangkaianresepsiborderdetail2'>
-                    <label className='txttanggalresepsi'>09</label>
+                    <label className='txttanggalresepsi'>06</label>
                </div>
 
                    <div className='bksrangkaianresepsiborderdetail3'>
                    <div className='bkshariresepsi1'>
-                        <label className='txtbulanresepsi'>JANUARY</label>
+                        <label className='txtbulanresepsi'>JUNI</label>
                     </div>
                     <div className='bkshariresepsi1'>
                     <img className='imgtahunresepsilist' alt='imgtahunresepsilist' src='https://i.ibb.co/fdmtjh7/list.png'/>
@@ -118,15 +118,15 @@ const Place =()=>{
                    </div>
            </div>
            <div className='bksrangkaianjalanresepsi'>
-                <div className='bksrangkaianjalanresepsi'><b>SASONO MULYO - DEPOK</b></div>
+                <div className='bksrangkaianjalanresepsi'><b>BETA GOLDLAN - (PURI BETA 2)</b></div>
            </div>
            <div className='bksrangkaianjalandetailresepsi'>
-                <div className='bksrangkaianjalandetailresepsi'>Jl. Jatimulya (Kalimulya) No. 30, Cilodong, Depok Jawa Barat</div>
+                <div className='bksrangkaianjalandetailresepsi'>Jl. Puri Beta Utara Raya Blok B.V.No 06 - 8 Ciledung Tangerang</div>
            </div> 
           
 
            <div className='form1'>
-            <button className="btnopeng" onClick={event =>  window.location.href='https://goo.gl/maps/xvyf6YvwSCZGx3D49'}>Denah Lokasi</button>
+            <button className="btnopeng" onClick={event =>  window.location.href='https://goo.gl/maps/nrjsc4e9bKoQ1cUL6'}>Denah Lokasi</button>
             </div>
             <Fragment>
             <div className='form2'>

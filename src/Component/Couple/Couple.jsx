@@ -26,25 +26,25 @@ const Couple =()=>{
             
             <div className='wrappingimg'>
             <a href='https://www.instagram.com/adindarfitrianisa/'>
-                <img className='imgw'  src='https://i.ibb.co/WzD5HHD/dinda.png' alt='dinda'/>
+                <img className='imgw' src="https://i.ibb.co/f4Yrg5t/Whats-App-Image-2021-05-23-at-09-30-1.png" alt='dinda'/>
                 </a>
             </div>
             
             <div className='animasitext'>
             <div className='htopw'>
-                <label className='txtw'>ADINDA RIZKI FITRIANISA,S.Tr.Keb.</label>
+                <label className='txtw'>Dita Permata Sari.SE</label>
             </div>
             <div className='htoplistw'>
             <img className='imglistw' src='https://i.ibb.co/fdmtjh7/list.png' alt='list'/>
             </div>
             <div className='htopwptk'>
-                <label className='txtptk'>PUTRI KEDUA</label>
+                <label className='txtptk'>PUTRI BUNGSU</label>
             </div>
             <div className='htopwbpk'>
-                <label className='txtwbpk'>Bapak Agus Heryanto,Bc.Ip.,S.H.,MH</label>
+                <label className='txtwbpk'>Bapak Nurhadi</label>
             </div>
             <div className='htopwibu'>
-                <label className='txtwibu'>Ibu Ita Deswita</label>
+                <label className='txtwibu'>Ibu Ristiwana</label>
             </div>
             </div>
             <div className='wrapIG'>
@@ -61,25 +61,25 @@ const Couple =()=>{
 
              <div className='wrappingimgl'>
              <a href='https://www.instagram.com/bembengggg/'>
-                <img alt='bambang' className='imgl' src='https://i.ibb.co/VVzjrTM/bambang.png'/>
+                <img alt='bambang' className='imgl'src="https://i.ibb.co/fXzGtQW/Whats-App-Image-2021-05-23-at-09-54-1.png"/>
                 </a> 
             </div>
             
             <div className='animasitextl'>
             <div className='htoplptk'>
-                <label className='txtlptk'>PUTRA KEEMPAT</label>
+                <label className='txtlptk'>PUTRA PERTAMA</label>
             </div>
             <div className='htopl'>
-                <label className='txtl'>BAMBANG KURNIAWAN WIBOWO,S.Kom</label>
+                <label className='txtl'>Ryan Purnama Megah.SE</label>
             </div>
             <div className='htoplistl'>
             <img className='imglistl' alt='list' src='https://i.ibb.co/fdmtjh7/list.png'/>
             </div>
             <div className='htoplbpk'>
-                <label className='txtlbpk'>Bapak Supriyanto(Alm)</label>
+                <label className='txtlbpk'>Bapak Iin Syahdinir</label>
             </div>
             <div className='htoplibu'>
-                <label className='txtlibu'>Ibu Nurwilis(Almarhumah)</label>
+                <label className='txtlibu'>Ibu Delfaza Jambaco</label>
             </div> 
             </div>
             <div className='wraplIG'>

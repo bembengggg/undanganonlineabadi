@@ -15,7 +15,10 @@
 .buku{
     display: block;
     width: 100%;
-    height: 1520px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
 }
 .wrappernama{
     height: auto;

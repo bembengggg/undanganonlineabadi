@@ -242,11 +242,13 @@
     top: 69%;
     width: 100%;
     font-family: 'monofonto';
+
 }
 .txtl{
     font-size: 13px;
     color:#9C6615 ;
-    margin-left: 3%;
+    margin-left: 13%;
+
 }
 .htoplptk{
     position: absolute;
@@ -298,7 +300,7 @@
 }
 .txtlibu{
     font-size: 11px;
-    margin-left: 13%;
+    margin-left: 15%;
     color: #9C6615;
 }
 
@@ -399,7 +401,7 @@
     .txtl{
         font-size: 12px;
         color:#9C6615 ;
-        margin-left: 3%;
+        margin-left: 10%;
     }
 }
 @media only screen and (min-width: 411px) and (max-height: 1000px) {
@@ -421,7 +423,7 @@
     .txtl{
         font-size: 14px;
         color:#9C6615 ;
-        margin-left: 5%;
+        margin-left: 13%;
     }
 }
 @media only screen and (min-width: 300px) and (max-width: 400px){
@@ -481,7 +483,7 @@
     .txtl{
         font-size: 12px;
         color:#9C6615 ;
-        margin-left: 13%;
+        margin-left: 10%;
     }
 }
 @media only screen and (min-width: 768px) and (max-height: 1024px) {

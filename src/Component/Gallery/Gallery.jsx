@@ -38,9 +38,7 @@ const Gallery =()=>{
         <div className='wrap'>
            <img className='imgbg' alt='imgbg'src={gallery}/>
            <div className='formbtn'>
-           <a href="https://www.youtube.com/embed/CPKqZB7C-cI">
-             <img className='youtube' src="https://i.ibb.co/th72qrm/youtube.png" alt="youtube" border="0"></img>
-            </a>
+           
             </div>
            <div className='bksrangkaian'>
                 <div className='bks'>Galery</div>
@@ -49,18 +47,10 @@ const Gallery =()=>{
              <SimpleReactlightbox>
              <div className='grid'>
                <SRLWrapper options={options}>
-              <img alt='Tetap Selalu Berjalanan Seiringan' src="https://i.ibb.co/BnJbKzd/bambang10.jpg"/>
-              <img alt='Komitmen adalah Kunci dalam Hubungan' src="https://i.ibb.co/p2cwVmH/bambang4.jpg"/> 
-              <img alt='Mencitaimu Bukan Karna siapa Kamu Tetapi Karena Siapa Aku Ketika Bersamamu' src="https://i.ibb.co/wK76Hz7/bambang3.jpg" />
-              <img alt='Cinta adalah Tentang Keikhlasan' src="https://i.ibb.co/fqHMKWt/bambang11.jpg" />
-              <img alt='Kebahagian akan selalu Menemani' src="https://i.ibb.co/xCzwz3N/bambang5.jpg" />
-              <img alt='Sabar Menyikapi Segala Hal' src="https://i.ibb.co/PDT85Wn/bambang12.jpg" /> 
-              <img alt='Bahagiamu akan selalu menjadi bahagiaku' src="https://i.ibb.co/SPpy1gy/bambang7.jpg" />
-              <img alt='Aku Memilihmu Kamu Memilihku' src="https://i.ibb.co/mXZgYqJ/bambang8.jpg" />
-              <img alt='Kenangan Akan Menjadi Guru Terbaik' src="https://i.ibb.co/zQ34FbS/bambang1.jpg" />
-              <img alt='Rindu Akan Menjadi Temu' src="https://i.ibb.co/XzhfdNC/bambang9.jpg" />
-              <img alt='Cinta Tidak bisa dilihat tapi dirasakan' src="https://i.ibb.co/cX9Jn9H/bambang2.jpg"/>
-              <img alt='Tetap Bersama Sampai Maut Memisahkan' src="https://i.ibb.co/QCdprKb/bambang6.jpg" />
+              <img alt='Tetap Selalu Berjalanan Seiringan' src="https://i.ibb.co/c8q4RXX/photo4.jpg"/>
+              <img alt='Komitmen adalah Kunci dalam Hubungan' src="https://i.ibb.co/gZvY8xF/photo1.jpg"/> 
+              <img alt='Mencitaimu Bukan Karna siapa Kamu Tetapi Karena Siapa Aku Ketika Bersamamu' src="https://i.ibb.co/yVL2cg5/photo2.jpg" />
+              <img alt='Cinta adalah Tentang Keikhlasan' src="https://i.ibb.co/NLdqhRf/Photo-8-1.png" />
               </SRLWrapper>
            </div>
 
