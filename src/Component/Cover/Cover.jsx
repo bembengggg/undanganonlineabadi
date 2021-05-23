@@ -30,7 +30,7 @@ class Cover extends Component{
                 <label className='labeland'>&amp;</label>
             </div>
             <div className='form11'>
-                <label className='labeltgl'>06.Juni.2021 | Beta Goldlan</label>
+                <label className='labeltgl'>06.Juni.2021 | Gd.Puri Beta </label>
             </div>
             </div>
          

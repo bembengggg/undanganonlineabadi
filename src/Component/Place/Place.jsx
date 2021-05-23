@@ -126,7 +126,7 @@ const Place =()=>{
           
 
            <div className='form1'>
-            <button className="btnopeng" onClick={event =>  window.location.href='https://goo.gl/maps/nrjsc4e9bKoQ1cUL6'}>Denah Lokasi</button>
+            <button className="btnopeng" onClick={event =>  window.location.href='https://goo.gl/maps/zqVC94uptBbQFTkPA'}>Denah Lokasi</button>
             </div>
             <Fragment>
             <div className='form2'>

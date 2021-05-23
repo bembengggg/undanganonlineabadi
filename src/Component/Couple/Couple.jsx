@@ -25,8 +25,8 @@ const Couple =()=>{
             </div>
             
             <div className='wrappingimg'>
-            <a href='https://www.instagram.com/adindarfitrianisa/'>
-                <img className='imgw' src="https://i.ibb.co/f4Yrg5t/Whats-App-Image-2021-05-23-at-09-30-1.png" alt='dinda'/>
+            <a href='https://www.instagram.com/dittapermataa/'>
+                <img className='imgw'  src="https://i.ibb.co/WBZ7VPF/Whats-App-Image-2021-05-23-at-11-29-1.png" alt='dinda'/>
                 </a>
             </div>
             
@@ -52,7 +52,7 @@ const Couple =()=>{
             <img className='imglistig' src='https://i.ibb.co/bdrmnXs/IG.png' alt='IG'/>
             </div>
             <div className='namaig'>
-                <label className='txtwig'>Adindarfitrianisa</label>
+                <label className='txtwig'>dittapermataa</label>
             </div>
             </div>
             <div className='htopand'>
@@ -60,7 +60,7 @@ const Couple =()=>{
             </div>
 
              <div className='wrappingimgl'>
-             <a href='https://www.instagram.com/bembengggg/'>
+             <a href='https://www.instagram.com/ryanpm12/'>
                 <img alt='bambang' className='imgl'src="https://i.ibb.co/fXzGtQW/Whats-App-Image-2021-05-23-at-09-54-1.png"/>
                 </a> 
             </div>
@@ -87,7 +87,7 @@ const Couple =()=>{
             <img className='imglistlig' alt='IG'  src='https://i.ibb.co/bdrmnXs/IG.png'/>
             </div>
             <div className='namalig'>
-                <label className='txtlig'>Bembengggg</label>
+                <label className='txtlig'>ryanpm12</label>
             </div>
             </div>
          </div>
