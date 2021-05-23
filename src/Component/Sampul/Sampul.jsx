@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './Sampul.css';
-import container from '../../Assets/image/container.jpg';
+import container from '../../Assets/image/container.png';
 import audio from '../../Assets/MP3/sepertiga.mp3';
 import NavBottom from '../../Component/NavBottom/NavBottom';
 

@@ -26,7 +26,7 @@ const Couple =()=>{
             
             <div className='wrappingimg'>
             <a href='https://www.instagram.com/dittapermataa/'>
-                <img className='imgw'  src="https://i.ibb.co/WBZ7VPF/Whats-App-Image-2021-05-23-at-11-29-1.png" alt='dinda'/>
+                <img className='imgw' src="https://i.ibb.co/WBZ7VPF/Whats-App-Image-2021-05-23-at-11-29-1.png" alt='dinda'/>
                 </a>
             </div>
             

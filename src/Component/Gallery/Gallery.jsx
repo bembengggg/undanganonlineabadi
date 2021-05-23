@@ -47,10 +47,12 @@ const Gallery =()=>{
              <SimpleReactlightbox>
              <div className='grid'>
                <SRLWrapper options={options}>
-              <img alt='Tetap Selalu Berjalanan Seiringan' src="https://i.ibb.co/c8q4RXX/photo4.jpg"/>
-              <img alt='Komitmen adalah Kunci dalam Hubungan' src="https://i.ibb.co/gZvY8xF/photo1.jpg"/> 
-              <img alt='Mencitaimu Bukan Karna siapa Kamu Tetapi Karena Siapa Aku Ketika Bersamamu' src="https://i.ibb.co/yVL2cg5/photo2.jpg" />
-              <img alt='Cinta adalah Tentang Keikhlasan' src="https://i.ibb.co/NLdqhRf/Photo-8-1.png" />
+              <img alt='satu pemikiran' src="https://i.ibb.co/tsfCF3h/Whats-App-Image-2021-05-23-at-14-17-1.png"/>
+              <img alt='Komitmen adalah Kunci dalam Hubungan' src="https://i.ibb.co/xJtPycx/Whats-App-Image-2021-05-23-at-14-17-1-1.png" /> 
+              <img alt='Mencitaimu Bukan Karna siapa Kamu Tetapi Karena Siapa Aku Ketika Bersamamu' src="https://i.ibb.co/9W3khpm/Whats-App-Image-2021-05-23-at-14-17-1-2.png" />
+              <img alt='Cinta adalah Tentang Keikhlasan' src="https://i.ibb.co/8zyspFT/Whats-App-Image-2021-05-23-at-14-17-1-3.png" />
+              <img alt='Tetap Selalu Berjalanan Seiringan' src="https://i.ibb.co/qFhHbBp/Whats-App-Image-2021-05-23-at-14-17-1-4.png"/>
+              <img alt='Pernikahan arti dalam sebuah perjalanan' src="https://i.ibb.co/NLdqhRf/Photo-8-1.png" />
               </SRLWrapper>
            </div>
 

@@ -60,7 +60,7 @@ margin-right: auto;
         .grid > div {
             height: auto;
             position: absolute;
-            top: 45%;
+            top: 35%;
             width: 100%;
             display: grid;
             grid-template-columns: repeat(4, 1fr);
