@@ -9,7 +9,7 @@ const Couple =()=>{
         <div className='wrapcover'>
            <img className='imgcouple' src={couple} alt=''/>
            <div className='htopbsmlh'>
-                <label className='txtbsmlh'>Bismillahirrahmanirrahim</label>
+                <label className='txtbsmlh'>Bismillahirhmanirrahim</label>
             </div>
            <div className='htopasslm'>
                 <label className='txtasslm'>Assalaamu’alaikum Warahmatullaahi Wabarakaatuh</label>
